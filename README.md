@@ -5,7 +5,7 @@ I always enjoy improving my skills through coding. Thank you for stopping by my 
 Please feel free to contact me here or on my LinkedIn.
 
 ### Here's my LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/rudberg/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/ai-naito-89a133239/)
 
 
 
