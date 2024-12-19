@@ -8,7 +8,7 @@ Please feel free to contact me here or on my LinkedIn.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/ai-naito-89a133239/)
 
 
-## Teck Stuck
+## Teck Stack
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=Typescript)
