@@ -16,4 +16,4 @@ Please feel free to contact me here or on my LinkedIn.
 ![Swift](https://img.shields.io/badge/Swift-gray?style=for-the-badge&logo=Swift)
 ![React](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=React)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=Swift)
-![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg)
+![Node.js](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=nodedotjs&labelColor=green)
