@@ -9,18 +9,26 @@ Please feel free to contact me here or on my LinkedIn.
 
 
 ## Teck Stuck
+
+### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=Typescript)
 ![JavaScript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=Html5)
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=tailwindcss)
 ![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift)
+
+### Frameworks
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=Swift)
 ![Node.js](https://img.shields.io/badge/node.js-%23d2fc96?style=for-the-badge&logo=nodedotjs)
 ![express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### Libraries
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=tailwindcss)
 ![Knex.js](https://img.shields.io/badge/Knex.js-%23f7d47e?style=for-the-badge&logo=knexdotjs)
 ![Prisma](https://img.shields.io/badge/Prisma-darkblue?style=for-the-badge&logo=prisma)
+
+### Databases / Hosting/Deployment Platforms
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
 ![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
