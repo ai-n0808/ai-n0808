@@ -28,7 +28,7 @@ Please feel free to contact me here or on my LinkedIn.
 ![Knex.js](https://img.shields.io/badge/Knex.js-%23f7d47e?style=for-the-badge&logo=knexdotjs)
 ![Prisma](https://img.shields.io/badge/Prisma-darkblue?style=for-the-badge&logo=prisma)
 
-### Databases / Hosting/Deployment Platforms
+### Databases / Hosting / Deployment Platforms
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
 ![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
