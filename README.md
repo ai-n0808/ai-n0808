@@ -32,3 +32,9 @@ Please feel free to contact me here or on my LinkedIn.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
 ![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+
+### Version control | IDE
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-white?style=for-the-badge&color=blue)
+![Xcode](https://img.shields.io/badge/xcode-%23dbf1f9?style=for-the-badge&logo=xcode)
+![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git)
