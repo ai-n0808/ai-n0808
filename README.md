@@ -4,9 +4,9 @@ I’m a software engineer based in Tokyo 🗾. I love building applications and 
 I always enjoy improving my skills through coding. Thank you for stopping by my GitHub! 
 Please feel free to contact me here or on my LinkedIn / Wantedly.
 
-### Here's my LinkedIn
+### Here's my LinkedIn and Wantedly
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/ai-naito-89a133239/)
-[![Wantedly](https://img.shields.io/badge/Wantedly-white?logo=wantedly)](https://www.wantedly.com/id/ai_naito_d)
+[![Wantedly]([https://img.shields.io/badge/Wantedly-white?logo=wantedly](https://img.shields.io/badge/Wantedly-white?style=for-the-badge&logo=wantedly)](https://www.wantedly.com/id/ai_naito_d)
 
 ## Teck Stack
 
