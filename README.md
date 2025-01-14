@@ -17,16 +17,16 @@ Please feel free to contact me here or on my LinkedIn / Wantedly.
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3)
 ![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift)
 
-### Frameworks
-![Node.js](https://img.shields.io/badge/node.js-%23d2fc96?style=for-the-badge&logo=nodedotjs)
-![express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=Swift)
-
 ### Libraries
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=tailwindcss)
 ![Knex.js](https://img.shields.io/badge/Knex.js-%23f7d47e?style=for-the-badge&logo=knexdotjs)
 ![Prisma](https://img.shields.io/badge/Prisma-darkblue?style=for-the-badge&logo=prisma)
+
+### Frameworks
+![Node.js](https://img.shields.io/badge/node.js-%23d2fc96?style=for-the-badge&logo=nodedotjs)
+![express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=Swift)
 
 ### Databases / Hosting / Deployment Platforms
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
