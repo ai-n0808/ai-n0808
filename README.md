@@ -26,6 +26,7 @@ Please feel free to contact me here or on my LinkedIn / Wantedly.
 ### Frameworks
 ![Node.js](https://img.shields.io/badge/node.js-%23d2fc96?style=for-the-badge&logo=nodedotjs)
 ![express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=Swift)
 
 ### Databases / Hosting / Deployment Platforms
