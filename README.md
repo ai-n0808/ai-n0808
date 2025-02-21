@@ -31,6 +31,7 @@ Please feel free to contact me here or on my LinkedIn / Wantedly.
 
 ### Databases / Hosting / Deployment Platforms
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
+![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase&logoColor=red)
 ![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
