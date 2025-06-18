@@ -36,5 +36,4 @@ Please feel free to contact me here or on my LinkedIn.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
