@@ -12,12 +12,15 @@ Please feel free to contact me here or on my LinkedIn.
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=Typescript)
 ![JavaScript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=Html5)
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3)
 ![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift)
 
 ### Libraries
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=tailwindcss)
 ![Knex.js](https://img.shields.io/badge/Knex.js-%23f7d47e?style=for-the-badge&logo=knexdotjs)
 ![Prisma](https://img.shields.io/badge/Prisma-darkblue?style=for-the-badge&logo=prisma)
