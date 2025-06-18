@@ -13,8 +13,6 @@ Please feel free to contact me here or on my LinkedIn.
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=Typescript)
 ![JavaScript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
 ![Ruby](https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=ruby&logoColor=CC342D)
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=Html5)
-![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3)
 ![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift)
 
 ### Libraries
