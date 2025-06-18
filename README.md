@@ -19,7 +19,7 @@ Please feel free to contact me here or on my LinkedIn.
 
 ### Libraries
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=tailwindcss)
 ![Knex.js](https://img.shields.io/badge/Knex.js-%23f7d47e?style=for-the-badge&logo=knexdotjs)
